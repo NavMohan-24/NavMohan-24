@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Quantum Inspired Algorithms.
 - 💞️ I want to collaborate on any fields related to my interests.
 - 📫 How to reach me: navaneethkrishnan24@gmail.com
-- 
+
 
 <!---
 NavMohan-24/NavMohan-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
