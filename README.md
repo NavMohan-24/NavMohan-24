@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NavMohan-24, a physics post-graduate working as a system administrator of the HPC cluster, CUSAT, India.
+- 👋 Hi, I’m @NavMohan-24, a physics post-graduate working as a Quantum Support Engineer, IBM Bengaluru.
 - 👀 I’m interested in Quantum Computing, Quantum Simulations and Quantum Algorithms.
-- 🌱 I’m currently learning Quantum Inspired Algorithms.
+- 🌱 I’m currently learning about open-quantum systems.
 - 💞️ I want to collaborate on any fields related to my interests.
 - 📫 How to reach me: navaneethkrishnan24@gmail.com
 
