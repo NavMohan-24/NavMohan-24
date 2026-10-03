@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavMohan-24, a physics post-graduate working as a Quantum Support Engineer, IBM Bengaluru.
+- 👋 Hi, I’m Navaneeth Mohan, a physics post-graduate working as a Quantum Support Engineer, IBM Bengaluru.
 - 👀 I’m interested in Quantum Computing, Quantum Simulations and Quantum Algorithms.
 - 🌱 I’m currently learning about open-quantum systems.
 - 💞️ I want to collaborate on any fields related to my interests.
